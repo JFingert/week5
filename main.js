@@ -1,4 +1,4 @@
-//Exercise with Chris Dickinson -- for use with node.
+//Exercise with Chris Dickinson
 
 var http = require('http');
 var url = require('url');
